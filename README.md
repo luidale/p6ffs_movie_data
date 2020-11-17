@@ -2,4 +2,4 @@
 
 ## Usage:
 
-Open  	"Analyze_EE_electricity_prices.ipynb"
+Open  	"P6ff_movie_info.ipynb"
